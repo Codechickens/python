@@ -1,5 +1,1 @@
-Chương trình giải phương trình bậc 2: Ax^2 + Bx + C = 0
-Hệ số: A=-3.0, B=6.0, C=9.0
-Delta (Δ) = 144.0
-
-Lỗi: Hệ số A phải khác 0 để là phương trình bậc 2.
+Đây không phải phương trình bậc 2
